@@ -1,11 +1,17 @@
 # JAVA-diagrama-classes-iPhone
-### DIO - Trilha Java Básico
-- **Professor:** [Gleyson Sampaio](https://github.com/glysns)
+Desafio entregue para a plataforma DIO, proposto no módulo:
+  - **Orientação a Objetos e UML: Diagramação de Classes do iPhone**
+
+<br>
+
+## Descrição
+
+#### DIO - Trilha Java Básico
 www.dio.me
 
 **Estudo:** Orientação a Objetos e UML: Diagramação de Classes do iPhone
 
-## POO - Desafio
+#### POO - Desafio
 
 Modelagem e diagramação da representação em UML e Código no que se refere ao componente iPhone.
 
